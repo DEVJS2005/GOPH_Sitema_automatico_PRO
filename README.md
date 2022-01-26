@@ -24,4 +24,5 @@ interface grafica V
 
 
 ![image](https://github.com/DEVJS2005/GOPH-projeto-S.A.L/blob/main/Projeto%20S.A.L.jpg)
+![image](https://github.com/DEVJS2005/GOPH_Sitema_automatico_PRO/blob/main/Projeto%20novo.png)
 
